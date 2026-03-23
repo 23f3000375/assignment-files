@@ -1,0 +1,8 @@
+{
+  "prompt": "A 19th-century scientific lithograph of a dense, overlapping cluster of microscopic organic shapes. Engaging the visual grammar of 1880s natural history plates: rendered with extremely fine, precise ink linework, intricate stippling, and cross-hatching. To visually separate the overlapping shapes, each distinct individual shape is filled with a different, subtle, muted watercolor tint—one pale ochre, one faded indigo, one dusty rose—with stark, perfectly defined ink boundaries separating where they touch. Set against a blank, naturally aged vellum background. No text, no labels, no diagrams, no modern digital overlays. Masterpiece of vintage scientific engraving.",
+  "model": "Gemini",
+  "concept": "Instance Segmentation",
+  "tradition_name": "19th-Century Scientific Lithography",
+  "tradition_period": "1850s–1890s",
+  "tradition_approach": "Used specific lithographic grammar—stippling, fine-line ink cross-hatching, and distinct, muted watercolor washes—to visually distinguish and separate overlapping boundaries of organic structures, mirroring the logic of instance segmentation."
+}
