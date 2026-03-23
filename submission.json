@@ -1,0 +1,7 @@
+{
+  "prompt": "A top-down, hyper-realistic aerial photograph of a road. 95% of the image is dominated by dark, heavy, textured concrete covered in aggressive tire skid marks and the imposing, blurred shadows of massive steel vehicles. On the extreme right edge, separated only by a single, fragile, peeling white painted line, is a tiny, bright sliver of a bicycle tire. The visual weight heavily favors the dark, crushing industrial side. The contrast creates a deep feeling of fragility, danger, and imbalance. No text, no numbers, no charts, no graphs, no UI elements. Cinematic lighting, dramatic contrast, photorealistic.",
+  "model": "Gemini",
+  "dataset_name": "NHTSA Fatality Analysis Reporting System (FARS) - Bicyclists",
+  "dataset_url": "https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/813322",
+  "insight": "A thin strip of painted white lines is the only armor a human has against thousands of pounds of speeding metal."
+}
